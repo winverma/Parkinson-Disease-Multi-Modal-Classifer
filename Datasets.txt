@@ -1,0 +1,13 @@
+Audio -
+
+https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
+
+
+Clinical Data - 
+
+https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/data
+
+
+Brain IMWF - 
+
+https://www.kaggle.com/datasets/salmaneunus/parkinsons-disease-fmri-images
